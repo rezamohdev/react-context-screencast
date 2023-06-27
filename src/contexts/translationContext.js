@@ -6,7 +6,7 @@ export const translations = {
   en: {
     greeting: 'Hello World, I am',
   },
-  ru: {
-    greeting: 'Привет, мир, я',
+  fa: {
+    greeting: 'سلام دنیا، من',
   },
 };
